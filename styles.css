@@ -1,0 +1,43 @@
+
+header, body, footer {
+background-color: #ffe4c4;
+margin: 20px;
+}
+
+header a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header>img {
+    width: 100%;
+    max-width: 600px;
+}
+
+header>nav, footer {
+    background-color: gray;
+    padding: 5px;
+    margin: 10px;
+}
+
+nav a {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main p, li, ol, h1, h2, span, form {
+    margin: 20px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    text-align: center;
+}
+
+.SobreCESAE, .CoisasCESAE, .Associados {
+    background-color: lightgray;
+    border-style: double;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
